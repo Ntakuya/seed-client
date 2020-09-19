@@ -2,3 +2,7 @@
 
 /dist
 /coverage
+
+/apps/lp/node_modules
+/apps/lp/public
+/apps/lp/.cache
