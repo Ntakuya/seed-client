@@ -38,6 +38,13 @@
     "client-e2e": {
       "tags": [],
       "implicitDependencies": ["client"]
+    },
+    "admin-client": {
+      "tags": []
+    },
+    "admin-client-e2e": {
+      "tags": [],
+      "implicitDependencies": ["admin-client"]
     }
   }
 }
